@@ -1,16 +1,51 @@
-## Hi there 👋
+👋 Hi, I’m Krrish Kumar
 
-<!--
-**imkrrishgupta/imkrrishgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate programmer and tech enthusiast who loves building efficient, scalable, and creative solutions.
 
-Here are some ideas to get you started:
+💻 I specialize in C, C++, Python, Web Development, and Git workflows. I enjoy solving complex problems, learning new technologies, and contributing to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently Working On
+
+Improving my GitHub profile & portfolio projects
+
+Exploring full-stack web development with React & Node.js
+
+Learning advanced algorithms and data structures
+
+🌱 I’m Currently Learning
+
+Cloud technologies (AWS, Azure)
+
+Advanced C++ concepts
+
+Building interactive web applications
+
+⚡ Skills
+
+Languages: C, C++, Python, JavaScript
+
+Web: HTML, CSS, JavaScript, React
+
+Tools & Platforms: Git, GitHub, VS Code, Linux
+
+Concepts: OOP, Data Structures, Algorithms, Competitive Programming
+
+🏆 Achievements
+
+Completed competitive programming challenges on platforms like LeetCode, Codeforces
+
+Contributed to open-source projects on GitHub
+
+Actively sharing knowledge and resources in tech communities
+
+📫 How to Reach Me
+
+Email: your-email@example.com
+
+LinkedIn: linkedin.com/in/krrishkumar
+
+GitHub: github.com/imkrrishgupta
+
+⚡ Fun Fact
+
+I love learning new programming tricks, optimizing code, and sometimes experimenting with AI projects.
