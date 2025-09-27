@@ -40,7 +40,7 @@ Actively sharing knowledge and resources in tech communities
 
 📫 How to Reach Me
 
-Email: your-email@example.com
+Email: imkrrishgupta@gmail.com
 
 LinkedIn: linkedin.com/in/krrishkumar
 
