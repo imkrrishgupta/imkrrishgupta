@@ -54,25 +54,14 @@ My primary tools for Full-Stack development and problem-solving.
 
 ---
 
-## 🚀 Featured Projects
-
-> Showcase the best of your work by pinning these repositories on your profile!
-
-| Project Title | Core Tech Stack | Focus Area | [Repo Link](#) |
-| :--- | :--- | :--- | :---: |
-| **High-Performance Blog** | **Next.js** (SSR/SSG), MongoDB | Optimized page load times and implemented advanced data fetching strategies. | [View Repo](#) |
-| **Custom Data Structure Library** | **C++** | Self-implemented advanced DSA concepts (e.g., custom graph traversals, segment trees). | [View Repo](#) |
-| **Job Board API** | Node.js, Express, MySQL | Designed a robust backend API complete with authentication, filtering, and pagination. | [View Repo](#) |
-
----
 
 ## ✉️ Get in Touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-handle" target="_blank">
+  <a href="https://www.linkedin.com/in/krrish-kumar-bb2aaa328?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7fkUexiORhqc%2BMcTEqJSxg%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:imkrrishgupta@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/your-leetcode-handle" target="_blank">
