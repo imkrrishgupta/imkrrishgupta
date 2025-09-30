@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  B.Tech Computer Science @ NIT Jamshedpur 🎓
+  B.Tech(Hons.) Computer Science Engineering@ NIT Jamshedpur 🎓
 </h3>
 
 ---
