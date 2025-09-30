@@ -19,7 +19,6 @@ I'm an aspiring Software Engineer, driven by the challenge of building robust an
 
 - 🏗️ **Core Philosophy:** I specialize in the **JavaScript ecosystem**, building modern applications with a focus on **scalability, performance, and clean code**.
 - 💡 **Currently Exploring:** Deep diving into **System Design patterns** and practicing **DevOps workflows** (Docker, CI/CD).
-- 🏆 **Problem Solver:** Strong foundation in **Data Structures & Algorithms** (500+ problems solved) and active participation in competitive programming.
 - 🤝 **Collaboration:** Always open to contributing to open-source projects or collaborating on innovative ideas.
 
 ---
