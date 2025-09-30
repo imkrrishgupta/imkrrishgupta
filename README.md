@@ -1,51 +1,95 @@
-👋 Hi, I’m Krrish Kumar
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imkrrishgupta&color=0A66C2" alt="Profile views"/>
+  <a href="https://github.com/imkrrishgupta?tab=followers"><img src="https://img.shields.io/github/followers/imkrrishgupta?style=social&label=Follow" alt="GitHub Followers"/></a>
+</p>
 
-I'm a passionate programmer and tech enthusiast who loves building efficient, scalable, and creative solutions.
+<h1 align="center">
+  Hi, I'm Krrish Gupta 👋
+</h1>
 
-💻 I specialize in C, C++, Python, Web Development, and Git workflows. I enjoy solving complex problems, learning new technologies, and contributing to open-source projects.
+<h3 align="center">
+  B.Tech CSE @ NIT Jamshedpur | Full-Stack & System Design Enthusiast
+</h3>
 
-🔭 Currently Working On
+<div align="center">
+  <p>
+    My mission is to engineer **high-performance, scalable web solutions**. I thrive on challenges that require deep knowledge of **Data Structures & Algorithms** and practical application of **modern system architectures**.
+  </p>
+</div>
 
-Improving my GitHub profile & portfolio projects
+---
 
-Exploring full-stack web development with React & Node.js
+## 💻 Developer Dashboard
 
-Learning advanced algorithms and data structures
+A quick view of what I'm currently working on and my expertise.
 
-🌱 I’m Currently Learning
+### **Current Status**
 
-Cloud technologies (AWS, Azure)
+| Icon | Focus | Details |
+| :---: | :--- | :--- |
+| 📚 | **Learning** | Diving deep into **Microservices Architecture** and applying **Docker** for containerization. |
+| 🚀 | **Building** | Developing a personal project focused on real-time data streaming and processing. |
+| 🎯 | **Goal** | Elevating my **Competitive Programming** rating on LeetCode/Codeforces this semester. |
+| 🤝 | **Seeking** | Internships in **Software Development (SDE)** or **Full-Stack Engineering**. |
 
-Advanced C++ concepts
+### **Core Stack**
 
-Building interactive web applications
+<p align="center">
+  <h4>Frontend & Runtime</h4>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs" height="40"/>
+  
+  <h4>Databases & Data</h4>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,python" height="40"/>
 
-⚡ Skills
+  <h4>Fundamentals & Tools</h4>
+  <img src="https://skillicons.dev/icons?i=cpp,git,github,linux,vscode" height="40"/>
+</p>
 
-Languages: C, C++, Python, JavaScript
+---
 
-Web: HTML, CSS, JavaScript, React
+## ✨ Featured Projects
 
-Tools & Platforms: Git, GitHub, VS Code, Linux
+The repositories I'm most proud of, showcasing my full-stack and design capabilities.
 
-Concepts: OOP, Data Structures, Algorithms, Competitive Programming
+| Project Title | Technologies | Key Contribution | [Repo Link](#) |
+| :--- | :--- | :--- | :---: |
+| **Real-Time Analytics Platform** | MERN Stack, WebSockets | Developed highly available APIs and implemented secure, real-time data transfer. | [View Repo](#) |
+| **Custom ORM** | C++, OOP | Built a lightweight Object-Relational Mapper from scratch to demonstrate low-level database interaction. | [View Repo](#) |
+| **Microservice Auth API** | Node.js, Express, JWT | Designed a scalable and secure authentication service using best practices in RESTful API design. | [View Repo](#) |
 
-🏆 Achievements
+> 📌 **Pro Tip:** Make sure these three projects are *pinned* on your GitHub profile so they appear prominently to visitors!
 
-Completed competitive programming challenges on platforms like LeetCode, Codeforces
+---
 
-Contributed to open-source projects on GitHub
+## 📈 My Coding Stats
 
-Actively sharing knowledge and resources in tech communities
+Quantifiable proof of my consistency and problem-solving drive.
 
-📫 How to Reach Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imkrrishgupta&show_icons=true&theme=dark&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=fff" height="170" alt="Krrish's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=imkrrishgupta&theme=dark&hide_border=true&date_color=0A66C2&ring_color=0A66C2&fire_color=0A66C2" height="170" alt="Krrish's GitHub Streak"/>
+</p>
 
-Email: imkrrishgupta@gmail.com
+<div align="center">
+  **500+** problems solved across LeetCode & CodeChef. Committed to daily coding.
+</div>
 
-LinkedIn: linkedin.com/in/krrishkumar
+---
 
-GitHub: github.com/imkrrishgupta
+## ✉️ Connect with Me
 
-⚡ Fun Fact
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-handle" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/your-leetcode-handle" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
-I love learning new programming tricks, optimizing code, and sometimes experimenting with AI projects.
+<div align="center">
+  ***<samp>“Software and architecture are the same; start small, build strong foundations, and iterate fast.”</samp>***
+</div>
